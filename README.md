@@ -76,7 +76,7 @@ Use exact Menu Titles:
 2. Same approach, set `Select Next Tab` to `Cmd + →`.
 3. Same approach, set `Select Previous Tab` to `Cmd + ←`.
 
-ℹ️ *If you run into a popup dialogue in Chrome, the shortcut unsticks (annoying longstanding bug). Simply restart your browser to get it to stick again.*
+ℹ️ *If you run into a popup dialogue in Chrome and try to hit either shortcut, the shortcut unsticks and turns back to prev/next page (annoying longstanding bug). Simply restart your browser to get it to stick again.*
 
 ### Trackpad
 
